@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/beans and dependency injection/pom.xml" />
+        <option value="$PROJECT_DIR$/Hibernate and spring boot data jpa/cascading type and transaction in relational queries/pom.xml" />
+        <option value="$PROJECT_DIR$/Hibernate and spring boot data jpa/fetchType and orphanRemoval,N+1 query optimization/pom.xml" />
+        <option value="$PROJECT_DIR$/Hibernate and spring boot data jpa/hibernate jpa entities and tables/pom.xml" />
+        <option value="$PROJECT_DIR$/Hibernate and spring boot data jpa/mappings in spring jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/Hibernate and spring boot data jpa/projection in spring data jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/Hibernate and spring boot data jpa/sorting and pagination in spring data jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/Hibernate and spring boot data jpa/spring data jpa and dynamic query/pom.xml" />
+        <option value="$PROJECT_DIR$/mvc/exception handling/pom.xml" />
+        <option value="$PROJECT_DIR$/mvc/input custom annotation for validation/pom.xml" />
+        <option value="$PROJECT_DIR$/mvc/presentation and persistance layer/pom.xml" />
+        <option value="$PROJECT_DIR$/mvc/put patch delete mapping in mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/mvc/service layer/pom.xml" />
+        <option value="$PROJECT_DIR$/mvc/transforming api response/pom.xml" />
+        <option value="$PROJECT_DIR$/Production ready Spring Boot Features/spring boot project with web mvc and data jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/Production ready Spring Boot Features/spring boot auditing/pom.xml" />
+        <option value="$PROJECT_DIR$/Production ready Spring Boot Features/third party api calls with restClient/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="openjdk-26" project-jdk-type="JavaSDK" />
+</project>

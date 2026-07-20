@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springbootweb (1)" />
+        <module name="springbootweb (2)" />
+        <module name="springbootweb (3)" />
+        <module name="demo" />
+        <module name="springbootweb (4)" />
+        <module name="springbootweb" />
+        <module name="springbootweb (5)" />
+      </profile>
+      <profile name="Annotation profile for production-Ready-Features" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.46/lombok-1.18.46.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.46/lombok-1.18.46.jar" />
+        </processorPath>
+        <module name="production-Ready-Features (1)" />
+        <module name="demo (2)" />
+        <module name="hospitalManagement (1)" />
+        <module name="hospitalManagement (2)" />
+        <module name="demo (1)" />
+        <module name="demo (4)" />
+        <module name="hospitalManagement" />
+        <module name="demo (3)" />
+        <module name="production-Ready-Features" />
+      </profile>
+      <profile name="Annotation profile for production-Ready-Features (2)" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.46/lombok-1.18.46.jar" />
+        </processorPath>
+        <module name="production-Ready-Features (2)" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo" options="-parameters" />
+      <module name="demo (1)" options="-parameters" />
+      <module name="demo (2)" options="-parameters" />
+      <module name="demo (3)" options="-parameters" />
+      <module name="demo (4)" options="-parameters" />
+      <module name="hospitalManagement" options="-parameters" />
+      <module name="hospitalManagement (1)" options="-parameters" />
+      <module name="hospitalManagement (2)" options="-parameters" />
+      <module name="production-Ready-Features" options="-parameters" />
+      <module name="production-Ready-Features (1)" options="-parameters" />
+      <module name="production-Ready-Features (2)" options="-parameters" />
+      <module name="springbootweb" options="-parameters" />
+      <module name="springbootweb (1)" options="-parameters" />
+      <module name="springbootweb (2)" options="-parameters" />
+      <module name="springbootweb (3)" options="-parameters" />
+      <module name="springbootweb (4)" options="-parameters" />
+      <module name="springbootweb (5)" options="-parameters" />
+    </option>
+  </component>
+</project>

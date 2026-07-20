@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Hibernate and spring boot data jpa/cascading type and transaction in relational queries/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hibernate and spring boot data jpa/fetchType and orphanRemoval,N+1 query optimization/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hibernate and spring boot data jpa/hibernate jpa entities and tables/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hibernate and spring boot data jpa/mappings in spring jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hibernate and spring boot data jpa/projection in spring data jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hibernate and spring boot data jpa/sorting and pagination in spring data jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hibernate and spring boot data jpa/spring data jpa and dynamic query/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Production ready Spring Boot Features/spring boot auditing/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Production ready Spring Boot Features/spring boot project with web mvc and data jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Production ready Spring Boot Features/third party api calls with restClient/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/beans and dependency injection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvc/exception handling/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvc/input custom annotation for validation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvc/presentation and persistance layer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvc/put patch delete mapping in mvc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvc/service layer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mvc/transforming api response/src/main/java" charset="UTF-8" />
+  </component>
+</project>
