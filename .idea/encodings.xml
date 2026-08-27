@@ -18,5 +18,9 @@
     <file url="file://$PROJECT_DIR$/mvc/put patch delete mapping in mvc/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mvc/service layer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mvc/transforming api response/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring security advance/google oauth2 client authentication/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring security advance/refresh token and access token base authentication/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring security advance/role base authorization with authorities and permission/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring security advance/user session management with jwt/src/main/java" charset="UTF-8" />
   </component>
 </project>

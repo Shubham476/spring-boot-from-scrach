@@ -21,6 +21,10 @@
         <option value="$PROJECT_DIR$/Production ready Spring Boot Features/spring boot project with web mvc and data jpa/pom.xml" />
         <option value="$PROJECT_DIR$/Production ready Spring Boot Features/spring boot auditing/pom.xml" />
         <option value="$PROJECT_DIR$/Production ready Spring Boot Features/third party api calls with restClient/pom.xml" />
+        <option value="$PROJECT_DIR$/spring security advance/google oauth2 client authentication/pom.xml" />
+        <option value="$PROJECT_DIR$/spring security advance/user session management with jwt/pom.xml" />
+        <option value="$PROJECT_DIR$/spring security advance/refresh token and access token base authentication/pom.xml" />
+        <option value="$PROJECT_DIR$/spring security advance/role base authorization with authorities and permission/pom.xml" />
       </list>
     </option>
   </component>
